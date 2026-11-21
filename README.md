@@ -12,7 +12,7 @@
     <td width="50%" align="center"><a href="https://github.com/onezdtr/khada3"><img src="demos/khada3.gif" width="380" alt="khada3 radar dashboard showing every device on a home network and the companies it talks to"></a></td>
   </tr>
   <tr>
-    <td width="50%" align="center">See which program on your Linux machine talks to whom, from inside the kernel. eBPF hooks on TCP state changes and UDP sends, exact byte counts, a 24/7 agent where an AI judges every new connection, and a web page. (C, Rust, Python)<br><a href="https://github.com/onezdtr/3assas">Code →</a></td>
+    <td width="50%" align="center">See which program on your Linux machine talks to whom, from inside the kernel, and cut it off in one command. eBPF hooks name every connection from the DNS answers, an LSM hook blocks a program live, a 24/7 agent has an AI judge every new connection. Measured overhead, one-line install. (C, Rust, Python)<br><a href="https://onezdtr.github.io/3assas/">Website</a> · <a href="https://github.com/onezdtr/3assas">Code →</a></td>
     <td width="50%" align="center">A home DNS server that shows who every device on the network talks to, blocks trackers, and has an AI agent that explains the day on Telegram. Runs on an old MacBook turned server. (Python)<br><a href="https://github.com/onezdtr/khada3">Code →</a></td>
   </tr>
 </table>
