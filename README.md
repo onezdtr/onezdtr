@@ -17,6 +17,18 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th align="center"><a href="https://github.com/onezdtr/outwyre">Outwyre</a></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/onezdtr/outwyre"><img src="demos/outwyre.gif" width="600" alt="Outwyre dashboard on a demo fleet: a silent server, and node in api-2 reaching a host in the Netherlands nobody else uses"></a></td>
+  </tr>
+  <tr>
+    <td align="center">3assas for a whole fleet: one self-hosted dashboard that shows which program, in which container, on which server, talks to whom, and flags the first contact with a network nobody in the fleet ever used. Silent-server and Slack alerts. (Python, SQLite, Cloudflare Workers)<br><a href="https://outwyre.site-react.workers.dev">Website</a> · <a href="https://github.com/onezdtr/outwyre">Code →</a></td>
+  </tr>
+</table>
+
 ## Stack
 
 <p align="center"><b>Languages</b></p>
