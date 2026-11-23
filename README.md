@@ -25,7 +25,7 @@
     <td align="center"><a href="https://github.com/onezdtr/chouf"><img src="demos/chouf.png" width="600" alt="chouf report: proof that a fake theme installer sent the AWS access keys and the SSH key to example.com, which programs read them, and what to do about it"></a></td>
   </tr>
   <tr>
-    <td align="center">Run any program in a throwaway sandbox full of bait secrets and see what it really does: which secrets it went after and which process read them (eBPF), where it connected, proof of what left the machine, the local network kept out of reach. An AI tester drives the program, sets off what it planted for later, and judges what it says against what it does. (Rust, C, eBPF, podman)<br><a href="https://github.com/onezdtr/chouf">Code →</a></td>
+    <td align="center">Run any program in a throwaway sandbox full of bait secrets and see what it really does: which secrets it went after and which process read them (eBPF), where it connected, proof of what left the machine, the local network kept out of reach. An AI tester drives the program, sets off what it planted for later, and judges what it says against what it does. (Rust, C, eBPF, podman)<br><a href="https://onezdtr.github.io/chouf/">Website</a> · <a href="https://github.com/onezdtr/chouf">Code →</a></td>
   </tr>
 </table>
 
